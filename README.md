@@ -1,4 +1,4 @@
-# projetoaula1
+# Projeto Simples em Flutter de criptomoedas
 
 A new Flutter project.
 
